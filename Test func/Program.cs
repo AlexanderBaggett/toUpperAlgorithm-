@@ -23,7 +23,7 @@ namespace Test_func
      
 
             Console.WriteLine("Parallel lean and mean");
-            Console.WriteLine(leanAndMean(hello));
+            Console.WriteLine(Parallel_Lean_And_Mean(hello));
             Console.ReadKey();
 
             //Console.WriteLine("Parallel to Upper Ordered");
